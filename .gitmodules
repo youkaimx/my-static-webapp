@@ -1,0 +1,3 @@
+[submodule "react-app/api"]
+	path = react-app/api
+	url = git@github.com:youkaimx/netsjs-starter-api.git
